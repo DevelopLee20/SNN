@@ -52,7 +52,7 @@ $$V_reset: reset-voltage$$
 
 ### 랜덤 시냅스 입력 전류
 
-$$I(t) = I_{\text{mean}} \left(1 + 0.1 \cdot \text{route}\left(\frac{t_{\text{max}}}{\Delta t}\right) \sim E(t)\right) with E(t) \sim u(-1, 1)$$
+$$I(t) = I_{\text{mean}} \left(1 + 0.1 \cdot \sqrt{\left(\frac{t_{\text{max}}}{\Delta t}\right)} \sim E(t)\right) with E(t) \sim u(-1, 1)$$
 
 ```python
 random_num = 2 * np.random.random() - 1                   # 랜덤
