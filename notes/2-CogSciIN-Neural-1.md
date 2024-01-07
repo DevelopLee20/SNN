@@ -12,12 +12,13 @@
 - Na+: 나트륨
 - Cl-: 염소
 - 막 전위: Membrane Potential
+- 활동 전위: Action Potential
 
 ---
 
 ## 뉴런의 생물학적 원리
 
-### 뉴런의 3 부분
+### 뉴런의 생김새 3 부분
 
 1. Dendrite
 2. Cell body
