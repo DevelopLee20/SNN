@@ -12,12 +12,13 @@
 - Na+: 나트륨
 - Cl-: 염소
 - 막 전위: Membrane Potential
+- 활동 전위: Action Potential
 
 ---
 
 ## 뉴런의 생물학적 원리
 
-### 뉴런의 3 부분
+### 뉴런의 생김새 3 부분
 
 1. Dendrite
 2. Cell body
@@ -34,7 +35,7 @@
 - Glutamine, Acetylcholine: Na+를 세포막 안으로 넣는 물질이며, EPSP이 됩니다. 또한 membrane potential이 임계를 넘으면 흥분을 발생시킵니다.
 - GABA: Cl-를 세포막 안으로 넣는 물질이며, IPSP이 됩니다.
 
-## Action Potential 발생 원리
+## 활동 전위 발생 원리
 
 - K+가 외부로 나갈 때, - 전하의 membrane potential이 발생됩니다.
 - Na+가 내부로 들어갈 때, + 전하의 membrane potential이 발생됩니다.
