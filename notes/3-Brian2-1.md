@@ -231,7 +231,7 @@ dv/dt = (sin(2*pi*100*Hz*t)-v)/tau : 1
 '''
 
 # Change to Euler method because exact integrator doesn't work here
-G = NeuronGroup(1, eqs, method='euler') # euler 방식 사용
+G = NeuronGroup(1, eqs, method='euler') # euler 방식(Euler-Maruyama 방식) 사용
 M = StateMonitor(G, 'v', record=0)
 
 G.v = 5 # initial value
